@@ -1,2 +1,3 @@
 # tietokantasovtot
 Tietokantasovellusten toteuttaminen
+Testataan versionhallinnan toimintaa.
